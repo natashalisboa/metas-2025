@@ -1,1 +1,25 @@
 # metas-2025
+- me expor mais/ postar mais / sair mais
+- fazer o aniversário das gatinhas + festa halloween
+- focar no projeto novo: ???
+- ???
+- fazer pós: fullstack
+- fazer meus cursos de programação
+- ???
+- doar sangue
+- fazer doações no inverno e no verão
+- fazer tatuagens (3)
+- pintar o cabelo
+- ???
+- ???
+- ler pelo menos um livro por mês
+- estudar canto (2x na semana)
+- estudar cello (2x na semana)
+- ensaiar com banda
+- ???
+- ???
+- ???
+- ???
+- ???
+- ir em estádios | provar comidas & bebidas em estádios
+- ???
