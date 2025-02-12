@@ -7,7 +7,7 @@
 - estudar canto (2x na semana)
 - estudar cello (2x na semana)
 
-![metas](https://github.com/natashalisboa/metas-2025/blob/main/metas_smart_2025.png)
+![metas-smart](https://github.com/natashalisboa/metas-2025/blob/main/metas_smart_2025.png)
 <br>✨ mark map: https://markmap.js.org/repl
 
 # metas 2025 - pessoais/fora do método SMART:
@@ -19,12 +19,6 @@
 - ensaiar com banda
 - ir em estádios | provar comidas & bebidas em estádios
 - 🔒
-- 🔒
-- 🔒
-- 🔒
-- 🔒
-- 🔒
-- 🔒
-- 🔒
-- 🔒
-- 🔒
+
+![metas-2024](https://github.com/natashalisboa/metas-2025/blob/main/metas_2025.gif)
+<br>✨ canva com quizz das minhas metas de 2024 | apresentado para minhas amigas na tradicional apresentação de metas.
