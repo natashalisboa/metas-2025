@@ -7,6 +7,9 @@
 - estudar canto (2x na semana)
 - estudar cello (2x na semana)
 
+![metas](https://github.com/natashalisboa/metas-2025/blob/main/metas_smart_2025.png)
+<br>✨ mark map: https://markmap.js.org/repl
+
 # metas 2025 - pessoais/fora do método SMART:
 - fazer o aniversário das gatinhas + festa halloween
 - doar sangue
