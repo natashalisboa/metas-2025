@@ -1,3 +1,5 @@
+<samp>
+
 # metas 2025 - método SMART:
 - me expor mais/ postar mais / sair mais
 - focar no projeto novo: 🔒
@@ -22,3 +24,4 @@
 
 ![metas-2024](https://github.com/natashalisboa/metas-2025/blob/main/metas_2025.gif)
 <br>✨ canva com quizz das minhas metas de 2024 | apresentado para minhas amigas na tradicional apresentação de metas.
+</samp>
